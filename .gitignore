@@ -4,6 +4,12 @@ node_modules/
 # Ignorar archivos de logs
 *.losg
 
+#Ingorar los dockerfile
+Dockerfile
+
+#Ignorar docker compose
+docker-compose.yml
+
 # Ignorar archivos de configuración del sistema
 .DS_Store
 Thumbs.db
